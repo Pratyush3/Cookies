@@ -1,4 +1,4 @@
-Chocolate Chip Cookies by Ms. Shubitz
+Chocolate Chip Cookies by 
 TABLE OF CONTENTS
 Introduction
 Chapter 1: Ingredients and General Directions
@@ -6,7 +6,16 @@ Chapter 2: Tips for Delicious Cookies
 Chapter 3: Predictable Problems
 Chapter 4: Enjoy Your Cookies
 Glossary
+
+
+
+
+
+
+
+
 Introduction
+
 Chocolate chip cookies are a drop-cookie many people like to eat. Some people like their
 cookies crispy. Some people like chewy cookies. (I prefer chewy ones!) It doesn’t matter how
 you like your cookies, what matters is that you find the right recipe so you can bake the ones you
@@ -15,6 +24,8 @@ I’ve been baking chocolate chip cookies from scratch for years. I’ve tried m
 recipes – some of which I have liked and some I haven’t. I’ve made mistakes in the kitchen, but
 I’ve learned from all of them. It has taken me a lot of trial and error, but I have learned how to
 bake delicious chocolate chip cookies!
+
+
 Chapter 1: Ingredients and General Directions
 Chocolate chip cookies are made with flour, a leavening agent (like baking powder),
 salt, sugars, eggs, vanilla extract, and chocolate chips. Some people choose to add nuts to their
@@ -29,6 +40,8 @@ leaving space for the cookies to spread while baking. Bake in the oven. Finally,
 wire rack.
 Like any kind of baking, it's important to follow a chocolate chip cookie recipe. Imprecise
 measurements will yield less-than-tasty cookies.
+
+
 Chapter 2: Tips for Delicious Cookies
 Butter is one of the most important parts of a chocolate chip cookie recipe. Most recipes
 call for room temperature butter so it's easy to cream with sugar. If you use refrigerated butter,
@@ -48,6 +61,8 @@ sifter. Plus, this allows you to evenly distribute your ingredients (http://bit.
 Even though it saves time to make two batches of cookies at the same time, you
 shouldn’t! Place one cookie sheet in the oven at a time. This will keep your cookies from being
 undercooked or becoming burnt (http://bit.ly/1GxAlrf)! 
+
+
 Chapter 3: Predictable Problems
 PROBLEM SOLUTION
 Your cookies are burned on the bottom. Line your baking sheet with parchment
@@ -73,6 +88,8 @@ Chef Ina Garten said:
 cookie but you can't be miserable while you are eating a cookie.”
 Have you ever had a bad day? You can make it better by putting cookies on a plate, pouring
 yourself a glass of milk, and enjoying the taste of a homemade chocolate chip cookie!
+
+
 Glossary
 cream: to mix something together until it's soft or smooth
 drop-cookie: a cookie made by dropping batter from a spoon on to a cookie sheet
