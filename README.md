@@ -26,20 +26,6 @@ I’ve learned from all of them. It has taken me a lot of trial and error, but I
 bake delicious chocolate chip cookies!
 
 
-Chapter 1: Ingredients and General Directions
-Chocolate chip cookies are made with flour, a leavening agent (like baking powder),
-salt, sugars, eggs, vanilla extract, and chocolate chips. Some people choose to add nuts to their
-chocolate chip cookies.
-The type and ratio of ingredients, as well as the cooking time, affect the way the cookie
-tastes. However, there are basic steps you need to follow when you’re making chocolate chip
-cookies:
-First, cream the sugars with butter using an electric mixer. Second, add eggs and vanilla
-extract. Then, combine the flour, salt, and leavening agents into the same bowl. Mix in the
-chocolate chips. Once the ingredients are combined, scoop the dough on to a cookie sheet
-leaving space for the cookies to spread while baking. Bake in the oven. Finally, cool on a
-wire rack.
-Like any kind of baking, it's important to follow a chocolate chip cookie recipe. Imprecise
-measurements will yield less-than-tasty cookies.
 
 
 Chapter 2: Tips for Delicious Cookies
